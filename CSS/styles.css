@@ -107,6 +107,11 @@ body{
     left: 36.4rem;
     z-index: 4;
 }
+.main-conten__box-img img{
+    width: 30rem;
+    height: 30rem;
+    object-fit:cover;
+}
 .dos{
     left: 73rem;
     z-index: 3;
