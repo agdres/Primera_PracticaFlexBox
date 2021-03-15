@@ -112,8 +112,8 @@ body{
     object-fit:cover;
 }
 .main-conten__box-img:hover{
-    width: 5rem;
-    height: 5rem;
+    backface-visibility: hidden;
+    transform: scale(1.15, 1.15);
 }
 .dos{
     left: 73rem;
